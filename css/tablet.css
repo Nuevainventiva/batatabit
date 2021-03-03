@@ -1,0 +1,12 @@
+.backgroundImg {
+    display: none;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+}

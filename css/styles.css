@@ -89,7 +89,7 @@ header img {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("./assets/icons/vector.svg");
+  background-image: url("../assets/icons/vector.svg");
 }
 main {
   width: 100%;
@@ -117,7 +117,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./assets/imgs/bitcoin.svg');
+    background-image: url('../assets/imgs/bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -204,7 +204,7 @@ font-family: "DM Sans";
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url('./assets/icons/trending-down1.svg');
+  background-image: url('../assets/icons/trending-down1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -214,7 +214,7 @@ font-family: "DM Sans";
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url('./assets/icons/trending-up_1.svg');
+  background-image: url('../assets/icons/trending-up_1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -252,7 +252,7 @@ font-family: "DM Sans";
   height: 25px;
   top: -10px;
   left: calc(50% - 20px);
-  background-image: url('./assets/imgs/group_16.svg');
+  background-image: url('../assets/imgs/group_16.svg');
 }
 
 .product-detail--title {
@@ -296,7 +296,7 @@ font-family: "DM Sans";
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background-image: url('./assets/icons/clock_1.svg');
+  background-image: url('../assets/icons/clock_1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -306,7 +306,7 @@ font-family: "DM Sans";
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background-image: url('./assets/icons/eye_1.svg');
+  background-image: url('../assets/icons/eye_1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -316,7 +316,7 @@ font-family: "DM Sans";
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background-image: url('./assets/icons/dollar-sign_1.svg');
+  background-image: url('../assets/icons/dollar-sign_1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -326,7 +326,7 @@ font-family: "DM Sans";
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background-image: url('./assets/icons/check-circle_1.svg');
+  background-image: url('../assets/icons/check-circle_1.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -351,7 +351,7 @@ font-family: "DM Sans";
   width: 100%;
   min-width: 320px;
   height: 50vh;
-  background-image: url('./assets/imgs/bitcoinbaby_2x.jpg');
+  background-image: url('../assets/imgs/bitcoinbaby_2x.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -480,7 +480,7 @@ font-family: "DM Sans";
   display: inline-block;
   width: 20px;
   height: 20px;
-  background-image: url('./assets/icons/arrow-right_1.svg');
+  background-image: url('../assets/icons/arrow-right_1.svg');
   vertical-align: text-bottom;
 }
 
